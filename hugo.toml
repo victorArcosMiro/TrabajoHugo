@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+languageCode = 'es'
+title = 'Recetas'
+theme = "PaperMod"
+
+[author]
+  name = "Victor Arcos"
+  homepage = "https://github.com/adityatelange/"
+
+
+[[menu.main]]
+name = "China"
+url = "/china/"
+
+[[menu.main]]
+name = "India"
+url = "/india/"
+
+[[menu.main]]
+name = "Japon"
+url = "/japon/"
+
+[[menu.main]]
+name = "España"
+url = "/españa/"
+
+
+
+
+
+
